@@ -1,3 +1,3 @@
 # First Repo
 
-This is my git repo
+This is my git repo. More content to come.
